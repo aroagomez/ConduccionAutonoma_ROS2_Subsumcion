@@ -20,7 +20,7 @@ Para la toma de decisiones en tiempo real, se ha implementado una **Arquitectura
 El proyecto está dividido en paquetes de ROS2 especializados:
 * **/road_following:** Paquete encargado de la segmentación de carril, detección de líneas y cálculo del error de trayectoria para el seguimiento de carretera.
 * **/autonomus_driving:** Nodo principal que gestiona la detección de señales y la máquina de estados de la arquitectura de subsunción.
-* **/docs:** Memoria técnica detallada con el análisis de las pruebas en simulación y entorno real.
+* **Conduccion_autonoma_INFORME.pdf:** Memoria técnica detallada con el análisis de las pruebas en simulación y entorno real.
 
 ## Analisis y Resultados
 El informe técnico incluido analiza la transición del entorno de simulación al real, documentando los desafíos en la calibración de hiperparámetros de visión y las estrategias probadas para optimizar la respuesta del robot ante señales consecutivas.
